@@ -1,0 +1,12 @@
+DTO-Data transfer Object
+-> for security purpose we can have multiple representation for single entity
+-> Data separation
+-> Abstraction
+-> improve performance
+-> Flexibility
+
+
+Service Layer
+-> Business logic encapsulation
+-> Code Resusalbility
+-> Maintainability
